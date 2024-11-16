@@ -7,11 +7,11 @@ If a report exists for a game you are looking to report, please instead corrobor
 Additionally, please do not create a report for a game with the same compatibility rating that it already has. These reports are redundant and will be closed without further communication.
 
 ## Starting the Report
-To begin creating a report, [open a new Compatibility Report issue form](https://github.com/Lime3DS/compatibility-list/issues/new?assignees=&labels=&projects=&template=compat_report.yml) on the Issues page of this repository
+To begin creating a report, [open a new Compatibility Report issue form](https://github.com/azahar-emu/compatibility-list/issues/new?assignees=&labels=&projects=&template=compat_report.yml) on the Issues page of this repository
 
 Before contributing a compatibility report, a few criteria must be met which are listed as checkboxes at the top of this form. Please read and ensure that all of these have been met before continuing.
 
-Once you have verified that your report is valid, please title your report with the official name of the game as present in the Lime3DS GUI, alongside the game's title ID. You can acquire the game's title ID by right-clicking on the game in the Lime3DS GUI and then selecting Properties.
+Once you have verified that your report is valid, please title your report with the official name of the game as present in the Azahar GUI, alongside the game's title ID. You can acquire the game's title ID by right-clicking on the game in the Azahar GUI and then selecting Properties.
 
 An example of a valid report tile would be: "Pokémon X [0004000000055D00]"
 
@@ -42,7 +42,7 @@ After the score has been decided, you must then write about your experience play
 Any issues you experienced while playing the game must be described in detail here alongside screenshots or videos if available and relevant.
 
 ## System Info
-Once this description has been written, please fill out the remaining boxes in the form. This will collect the Lime3DS version(s) which were used during gameplay alongside information about your system.
+Once this description has been written, please fill out the remaining boxes in the form. This will collect the Azahar version(s) which were used during gameplay alongside information about your system.
 
 ## Submitting the Report
 When all previous forms have been filled out, the "Submit New Issue" button can be pressed.

@@ -10,9 +10,9 @@ body:
       options:
       - label: I have checked there is no currently open report for this game. (An updated report can be made for games with previously closed reports).
         required: true
-      - label: I have read through the contribution guide [here](https://github.com/Lime3DS/compatibility-list/blob/master/CONTRIBUTING.md) from start to finish.
+      - label: I have read through the contribution guide [here](https://github.com/azahar-emu/compatibility-list/blob/master/CONTRIBUTING.md) from start to finish.
         required: true
-      - label: I have played through this game from start to finish only using official releases of the Lime3DS emulator.
+      - label: I have played through this game from start to finish only using official releases of the Azahar emulator.
         required: true
       - label: The OpenGL renderer was used for my entire playthrough.
         required: true
@@ -40,8 +40,8 @@ body:
       required: true
   - type: input
     attributes:
-      label: Lime3DS Version
-      description: The Lime3DS version which was used when playing through the game. If multiple versions were used, list them all.
+      label: Azahar Version
+      description: The Azahar version which was used when playing through the game. If multiple versions were used, list them all.
       placeholder: "1234"
     validations:
       required: true
