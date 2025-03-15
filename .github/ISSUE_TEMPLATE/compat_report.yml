@@ -16,6 +16,8 @@ body:
         required: true
       - label: The OpenGL renderer was used for my entire playthrough.
         required: true
+      - label: If I experienced graphical issues with the Disable Right Eye Rendering option enabled, I checked that the issues also occur with this setting turned off.
+        required: true
   - type: dropdown
     id: rating
     attributes:
