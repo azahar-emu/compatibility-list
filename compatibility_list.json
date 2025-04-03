@@ -5291,10 +5291,14 @@
     "title": "Monster Hunter 3 Ultimate"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "monster-hunter-4-ultimate",
     "releases": [
-      {"id": "0004000000126300"}
+      {"id": "0004000000126300"},
+      {"id": "0004000000126100"},
+      {"id": "000400000011D700"},
+      {"id": "0004000000153200"},
+      {"id": "0004000000141A00"}
     ],
     "title": "Monster Hunter 4 Ultimate"
   },
