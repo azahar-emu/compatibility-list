@@ -1172,25 +1172,49 @@
     "compatibility": 0,
     "directory": "bravely-default",
     "releases": [
-      {"id": "00040000000FC500"}
+      {"id": "00040000000FC500"},
+      {"id": "00040000000FC600"},
+      {"id": "000400000005E900"},
+      {"id": "0004000000122200"}
     ],
     "title": "Bravely Default"
   },
   {
-    "compatibility": 1,
+    "compatibility": 0,
+    "directory": "bravely-default-demo",
+    "releases": [
+      {"id": "00040002000FC501"},
+      {"id": "00040002000FC601"}
+    ],
+    "title": "Bravely Default Demo"
+  },
+  {
+    "compatibility": 0,
+    "directory": "bravely-default-for-the-sequel",
+    "releases": [
+      {"id": "00040000000DB600"}
+    ],
+    "title": "Bravely Default: For the Sequel"
+  },
+  {
+    "compatibility": 0,
     "directory": "bravely-second-end-layer",
     "releases": [
-      {"id": "000400000017BA00"}
+      {"id": "000400000017BA00"},
+      {"id": "000400000017BB00"},
+      {"id": "00040000000DC800"},
+      {"id": "000400000017BC00"}
     ],
-    "title": "BRAVELY SECOND: END LAYER"
+    "title": "Bravely Second: End Layer"
   },
   {
     "compatibility": 0,
     "directory": "bravely-second-end-layer-demo",
     "releases": [
-      {"id": "0004000000183700"}
+      {"id": "0004000000183700"},
+      {"id": "0004000000183800"}
     ],
-    "title": "BRAVELY SECOND: END LAYER DEMO"
+    "title": "Bravely Second: End Layer Demo"
   },
   {
     "compatibility": 99,
