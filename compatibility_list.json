@@ -4617,10 +4617,14 @@
     "title": "Luigi’s Mansion"
   },
   {
-    "compatibility": 3,
+    "compatibility": 2,
     "directory": "luigis-mansion-dark-moon",
     "releases": [
-      {"id": "0004000000055F00"}
+      {"id": "0004000000055F00"},
+      {"id": "0004000000076500"},
+      {"id": "0004000000076400"},
+      {"id": "00040000000CFF00"},
+      {"id": "00040000000D0000"}
     ],
     "title": "Luigi's Mansion: Dark Moon"
   },
