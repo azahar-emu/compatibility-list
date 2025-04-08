@@ -13,7 +13,7 @@ Before contributing a compatibility report, a few criteria must be met which are
 
 Once you have verified that your report is valid, please title your report with the official name of the game as present in the Azahar GUI, alongside the game's title ID. You can acquire the game's title ID by right-clicking on the game in the Azahar GUI and then selecting Properties.
 
-An example of a valid report tile would be: "Pokémon X [0004000000055D00]"
+An example of a valid report title would be: "Pokémon X [0004000000055D00]"
 
 ## Compatibility Rating
 You must now decide which compatibility rating the game will be given. This is determined based on the criteria provided below:
@@ -34,7 +34,7 @@ The game functions with major graphical or audio glitches, and progress from beg
 The game boots, but crashes when progressing past the start screen. The game is completely unplayable
 
 #### ![#828282](https://placehold.co/15x15/828282/828282.png) 5: Won't Boot
-The game instantly crashes on boot without displaying and opening graphics. The game is completely unplayable
+The game instantly crashes on boot without displaying any opening graphics. The game is completely unplayable
 
 ## Description
 After the score has been decided, you must then write about your experience playing the game in the Description box. This serves to back up your report and explain why the compatibility rating you chose was selected.
