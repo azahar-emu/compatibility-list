@@ -2900,7 +2900,9 @@
     "compatibility": 3,
     "directory": "fire-emblem-fates-birthright",
     "releases": [
-      {"id": "0004000000179400"}
+      {"id": "0004000000179400"},
+      {"id": "0004000000179500"},
+      {"id": "000400000012DC00"}
     ],
     "title": "Fire Emblem Fates: Birthright"
   },
@@ -2908,9 +2910,21 @@
     "compatibility": 2,
     "directory": "fire-emblem-fates-conquest",
     "releases": [
-      {"id": "0004000000179600"}
+      {"id": "0004000000179600"},
+      {"id": "0004000000179700"},
+      {"id": "000400000012DD00"}
     ],
     "title": "Fire Emblem Fates: Conquest"
+  },
+  {
+    "compatibility": 2,
+    "directory": "fire-emblem-fates-special-edition",
+    "releases": [
+      {"id": "0004000000179800"},
+      {"id": "000400000017A800"},
+      {"id": "000400000012DE00"}
+    ],
+    "title": "Fire Emblem Fates: Special Edition"
   },
   {
     "compatibility": 2,
