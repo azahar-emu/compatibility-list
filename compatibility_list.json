@@ -4781,10 +4781,15 @@
     "title": "Mario Golf: World Tour"
   },
   {
-    "compatibility": 1,
+    "compatibility": 0,
     "directory": "mario-kart-7",
     "releases": [
-      {"id": "0004000000030800"}
+      {"id": "0004000000030800"},
+      {"id": "0004000000030700"},
+      {"id": "0004000000030600"},
+      {"id": "0004000000030A00"},
+      {"id": "000400000008B500"},
+      {"id": "000400000008B400"}
     ],
     "title": "Mario Kart 7"
   },
