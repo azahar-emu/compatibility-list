@@ -1993,6 +1993,14 @@
     "title": "Cycle of Eternity"
   },
   {
+    "compatibility": 3,
+    "directory": "daigasso-band-brothers-p",
+    "releases": [
+      {"id": "00040000000A0B00"}
+    ],
+    "title": "Daigasso! Band Brothers P"
+  },
+  {
     "compatibility": 99,
     "directory": "dan-mcfox-head-hunter",
     "releases": [
