@@ -3471,7 +3471,7 @@
     "title": "Harvest Moon 3D: The Tale of Two Towns"
   },
   {
-    "compatibility": 1,
+    "compatibility": 99,
     "directory": "harvest-moon-skytree-village",
     "releases": [
       {"id": "00040000001A3500"}
@@ -3479,7 +3479,7 @@
     "title": "Harvest Moon: Skytree Village"
   },
   {
-    "compatibility": 1,
+    "compatibility": 99,
     "directory": "harvest-moon-the-lost-valley",
     "releases": [
       {"id": "000400000010F600"}
@@ -4169,7 +4169,7 @@
     "title": "Kirby Planet Robobot"
   },
   {
-    "compatibility": 1,
+    "compatibility": 0,
     "directory": "kirby-triple-deluxe",
     "releases": [
       {"id": "000400000010BF00"}
@@ -4213,7 +4213,16 @@
     "directory": "kirbys-dream-land-2",
     "releases": [
       {"id": "000400000007DB00"}
-    ],
+    ], 
+    "title": "Kirby's Extra Epic Yarn"
+
+    },
+    { 
+      "compatibility": 0,
+    "directory": "Kirby's Extra Epic Yarn",
+    "releases": [
+      {"id": "00040000001D1F00"}
+      
     "title": "Kirby's Dream Land 2"
   },
   {
