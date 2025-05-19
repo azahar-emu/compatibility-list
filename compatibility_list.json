@@ -4741,6 +4741,14 @@
     "title": "Mario & Luigi: Dream Team"
   },
   {
+    "compatibility": 99,
+    "directory": "mario-and-luigi-dream-team bros",
+    "releases": [
+      {"id": "00040000000D9000"}
+    ],
+    "title": "Mario & Luigi: Dream Team bros"  
+  },
+  {
     "compatibility": 2,
     "directory": "mario-and-luigi-paper-jam",
     "releases": [
