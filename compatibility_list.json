@@ -6720,7 +6720,7 @@
     "title": "Pokémon Trading Card Game"
   },
   {
-    "compatibility": 3,
+    "compatibility": 1,
     "directory": "pokemon-ultra-moon",
     "releases": [
       {"id": "00040000001B5100"}
@@ -6728,7 +6728,7 @@
     "title": "Pokémon Ultra Moon"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "pokemon-ultra-sun",
     "releases": [
       {"id": "00040000001B5000"}
