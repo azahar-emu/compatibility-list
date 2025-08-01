@@ -6449,6 +6449,14 @@
   },
   {
     "compatibility": 1,
+    "directory": "pokedex-3d",
+    "releases": [
+      {"id": "0004000000032600"}
+    ],
+    "title": "Pokédex 3D"
+  },
+  {
+    "compatibility": 1,
     "directory": "pokedex-3d-pro",
     "releases": [
       {"id": "0004000000051E00"}
