@@ -8921,10 +8921,14 @@
     "title": "The Legend of Zelda: Majora’s Mask 3D"
   },
   {
-    "compatibility": 2,
+    "compatibility": 0,
     "directory": "the-legend-of-zelda-ocarina-of-time-3d",
     "releases": [
-      {"id": "0004000000033500"}
+      {"id": "0004000000033500"},
+      {"id": "0004000000033600"},
+      {"id": "0004000000033400"},
+      {"id": "000400000008F800"},
+      {"id": "000400000008F900"}
     ],
     "title": "The Legend of Zelda: Ocarina of Time 3D"
   },
