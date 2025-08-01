@@ -6736,7 +6736,7 @@
     "title": "Pokémon Ultra Sun"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "pokemon-x",
     "releases": [
       {"id": "0004000000055D00"}
@@ -6744,7 +6744,7 @@
     "title": "Pokémon X"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "pokemon-y",
     "releases": [
       {"id": "0004000000055E00"}
