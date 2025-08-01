@@ -8712,6 +8712,15 @@
     "title": "Terraria"
   },
   {
+    "compatibility": 0,
+    "directory": "tetris-ultimate",
+    "releases": [
+      {"id": "000400000012EC00"},
+      {"id": "0004000000132400"}
+    ],
+    "title": "Tetris Ultimate"
+  },
+  {
     "compatibility": 2,
     "directory": "the-alliance-alive",
     "releases": [
