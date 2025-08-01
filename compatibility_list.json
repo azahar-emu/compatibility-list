@@ -2967,6 +2967,16 @@
     "title": "Flick Golf 3D"
   },
   {
+    "compatibility": 1,
+    "directory": "flipnote-studio-3d",
+    "releases": [
+      {"id": "00040000000C6600"},
+      {"id": "00040000000C6700"},
+      {"id": "0004000000056C00"}
+    ],
+    "title": "Flipnote Studio 3D"
+  },
+  {
     "compatibility": 3,
     "directory": "fluidity-spin-cycle",
     "releases": [
