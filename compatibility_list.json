@@ -6568,7 +6568,7 @@
     "title": "Pokémon Gold Version (Spanish Version)"
   },
   {
-    "compatibility": 3,
+    "compatibility": 1,
     "directory": "pokemon-moon",
     "releases": [
       {"id": "0004000000175E00"}
@@ -6688,7 +6688,7 @@
     "title": "Pokémon Silver Version (Spanish Version)"
   },
   {
-    "compatibility": 3,
+    "compatibility": 1,
     "directory": "pokemon-sun",
     "releases": [
       {"id": "0004000000164800"}
@@ -6696,7 +6696,7 @@
     "title": "Pokémon Sun"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "pokemon-sun-and-pokemon-moon-special-demo",
     "releases": [
       {"id": "00040000001A7100"}
