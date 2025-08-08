@@ -2473,6 +2473,14 @@
     "title": "Dragon Lapis"
   },
   {
+    "compatibility": 0,
+    "directory": "dragon-quest-monsters-2",
+    "releases": [
+      {"id": "00040000000CF500"}
+    ],
+    "title": "Dragon Quest Monsters 2: Iru to Ruka no Fushigi na Fushigi na Kagi"
+  },
+  {
     "compatibility": 1,
     "directory": "dragon-quest-vii-fragments-of-the-forgotten-past",
     "releases": [
