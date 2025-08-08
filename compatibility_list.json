@@ -5228,10 +5228,12 @@
     "title": "Mighty Switch Force! 2"
   },
   {
-    "compatibility": 4,
+    "compatibility": 0,
     "directory": "miitopia",
     "releases": [
-      {"id": "00040000001B4E00"}
+      {"id": "00040000001B4E00"},
+      {"id": "00040000001B4F00"},
+      {"id": "0004000000178800"}
     ],
     "title": "Miitopia"
   },
