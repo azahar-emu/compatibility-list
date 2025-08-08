@@ -4179,10 +4179,11 @@
     "title": "Kirby Fighters Deluxe"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "kirby-planet-robobot",
     "releases": [
-      {"id": "0004000000183600"}
+      {"id": "0004000000183600"},
+      {"id": "000400000017C600"}
     ],
     "title": "Kirby Planet Robobot"
   },
