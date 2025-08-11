@@ -5694,7 +5694,11 @@
     "compatibility": 1,
     "directory": "new-super-mario-bros-2",
     "releases": [
-      {"id": "000400000007AE00"}
+      {"id": "000400000007AE00"},
+      {"id": "000400000007AF00"},
+      {"id": "000400000007AD00"},
+      {"id": "00040000000B8900"},
+      {"id": "00040000000B8A00"}
     ],
     "title": "New Super Mario Bros. 2"
   },
