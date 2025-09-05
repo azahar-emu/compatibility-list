@@ -6922,7 +6922,9 @@
     "compatibility": 0,
     "directory": "pushmo",
     "releases": [
-      {"id": "0004000000068E00"}
+      {"id": "0004000000068E00"},
+      {"id": "00040000000B4F00"},
+      {"id": "0004000000157B00"}
     ],
     "title": "Pushmo"
   },
