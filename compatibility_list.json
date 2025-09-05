@@ -3273,7 +3273,7 @@
     "title": "Goosebumps: The Game"
   },
   {
-    "compatibility": 99,
+    "compatibility": 5,
     "directory": "gotcha-racing",
     "releases": [
       {"id": "000400000016F000"}
