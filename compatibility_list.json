@@ -9134,11 +9134,13 @@
     "title": "Tom Clancy's Splinter Cell 3D"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "tomodachi-life",
     "releases": [
       {"id": "000400000008C300"},
-      {"id": "000400000008C400"}
+      {"id": "000400000008C400"},
+      {"id": "000400000008C500"},
+      {"id": "0004000000120C00"}
     ],
     "title": "Tomodachi Life"
   },
