@@ -5151,10 +5151,12 @@
     "title": "Metroid Prime: Federation  Force Blast Ball Demo"
   },
   {
-    "compatibility": 1,
+    "compatibility": 0,
     "directory": "metroid-samus-returns",
     "releases": [
-      {"id": "00040000001BB200"}
+      {"id": "00040000001BB200"},
+      {"id": "00040000001BFB00"},
+      {"id": "00040000001BFC00"}
     ],
     "title": "Metroid: Samus Returns"
   },
