@@ -4636,10 +4636,12 @@
     "title": "Lufia: The Legend Returns"
   },
   {
-    "compatibility": 0,
+    "compatibility": 1,
     "directory": "luigis-mansion",
     "releases": [
-      {"id": "00040000001D1900"}
+      {"id": "00040000001D1900"},
+      {"id": "00040000001D1A00"},
+      {"id": "00040000001D1800"}
     ],
     "title": "Luigi’s Mansion"
   },
