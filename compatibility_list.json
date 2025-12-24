@@ -8940,10 +8940,12 @@
     "title": "The Legend of Zelda Main Theme Medley"
   },
   {
-    "compatibility": 2,
+    "compatibility": 0,
     "directory": "the-legend-of-zelda-majoras-mask-3d",
     "releases": [
-      {"id": "0004000000125500"}
+      {"id": "0004000000125500"},
+      {"id": "0004000000125600"},
+      {"id": "00040000000D6E00"}
     ],
     "title": "The Legend of Zelda: Majora’s Mask 3D"
   },
