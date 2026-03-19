@@ -7815,10 +7815,11 @@
     "title": "Skylanders Spyro's Adventure"
   },
   {
-    "compatibility": 5,
+    "compatibility": 1,
     "directory": "skylanders-superchargers-racing",
     "releases": [
-      {"id": "0004000000165E00"}
+      {"id": "0004000000165E00"},
+      {"id": "000400000016AE00"}
     ],
     "title": "Skylanders SuperChargers Racing"
   },
