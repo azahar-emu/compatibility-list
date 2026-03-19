@@ -4786,10 +4786,12 @@
     "title": "Mario & Luigi: Bowser’s Inside  Story + Bowser Jr.’s Journey"
   },
   {
-    "compatibility": 99,
+    "compatibility": 3,
     "directory": "mario-bros",
     "releases": [
-      {"id": "00040000000BD000"}
+      {"id": "00040000000BD000"},
+      {"id": "00040000000BD100"},
+      {"id": "00040000000BCF00"}
     ],
     "title": "Mario Bros"
   },
