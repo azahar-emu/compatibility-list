@@ -4089,6 +4089,14 @@
     "title": "KAROUS - THE BEAST OF RE:EDEN -"
   },
   {
+    "compatibility": 3,
+    "directory": "ken-to-mahou-to-gakuen-mono-3d",
+    "releases": [
+      {"id": "000400000004D800"}
+    ],
+    "title": "Ken to Mahou to Gakuen Mono 3D"
+  },
+  {
     "compatibility": 1,
     "directory": "kersploosh",
     "releases": [
