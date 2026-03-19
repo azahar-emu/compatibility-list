@@ -8435,10 +8435,14 @@
     "title": "Super Little Acorns 3D Turbo"
   },
   {
-    "compatibility": 2,
+    "compatibility": 3,
     "directory": "super-mario-3d-land",
     "releases": [
-      {"id": "0004000000054000"}
+      {"id": "0004000000054000"},
+      {"id": "0004000000053F00"},
+      {"id": "0004000000054100"},
+      {"id": "0004000000089D00"},
+      {"id": "0004000000089E00"}
     ],
     "title": "Super Mario 3D Land"
   },
