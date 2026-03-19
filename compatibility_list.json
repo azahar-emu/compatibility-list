@@ -7832,10 +7832,11 @@
     "title": "Skylanders SWAP Force"
   },
   {
-    "compatibility": 99,
+    "compatibility": 5,
     "directory": "skylanders-trap-team",
     "releases": [
-      {"id": "0004000000131200"}
+      {"id": "0004000000131200"},
+      {"id": "000400000013BE00"}
     ],
     "title": "Skylanders Trap Team"
   },
