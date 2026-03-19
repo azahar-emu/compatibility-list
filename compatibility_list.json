@@ -7797,10 +7797,12 @@
     "title": "Sky Kid"
   },
   {
-    "compatibility": 99,
+    "compatibility": 2,
     "directory": "skylanders-giants",
     "releases": [
-      {"id": "0004000000091D00"}
+      {"id": "0004000000091D00"},
+      {"id": "00040000000A3500"},
+      {"id": "00040000000A3600"}
     ],
     "title": "Skylanders Giants"
   },
