@@ -17,6 +17,17 @@ body:
       - label: If I experienced graphical issues with the Disable Right Eye Rendering option enabled, I checked that the issues also occur with this setting turned off.
         required: true
   - type: dropdown
+    id: renderer
+    attributes:
+      label: Renderer
+      description: Which renderer did you use primarily during your playthrough?
+      options:
+        - --Select One--
+        - OpenGL
+        - Vulkan
+    validations:
+      required: true
+  - type: dropdown
     id: rating
     attributes:
       label: Rating
