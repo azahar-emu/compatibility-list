@@ -14,8 +14,6 @@ body:
         required: true
       - label: I have played through this game from start to finish only using official releases of the Azahar emulator.
         required: true
-      - label: The OpenGL renderer was throughout playthrough.
-        required: true
       - label: If I experienced graphical issues with the Disable Right Eye Rendering option enabled, I checked that the issues also occur with this setting turned off.
         required: true
   - type: dropdown
