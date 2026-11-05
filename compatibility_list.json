@@ -4606,10 +4606,12 @@
     "title": "Little Adventure on the Prairie"
   },
   {
-    "compatibility": 0,
+    "compatibility": 5,
     "directory": "little-battlers-experience",
     "releases": [
-      {"id": "0004000000147100"}
+      {"id": "0004000000147100"},
+      {"id": "0004000000147200"},
+      {"id": "0004000000168C00"}
     ],
     "title": "Little Battlers eXperience"
   },
