@@ -6506,7 +6506,7 @@
     "title": "Pokédex 3D Pro"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "pokemon-alpha-sapphire",
     "releases": [
       {"id": "000400000011C500"}
@@ -6634,7 +6634,7 @@
     "title": "Pokémon Mystery Dungeon: Gates to Infinity"
   },
   {
-    "compatibility": 3,
+    "compatibility": 1,
     "directory": "pokemon-omega-ruby",
     "releases": [
       {"id": "000400000011C400"}
