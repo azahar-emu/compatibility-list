@@ -6340,10 +6340,12 @@
     "title": "Pilotwings"
   },
   {
-    "compatibility": 2,
+    "compatibility": 1,
     "directory": "pilotwings-resort",
     "releases": [
-      {"id": "0004000000031C00"}
+      {"id": "0004000000031C00"},
+      {"id": "0004000000031D00"},
+      {"id": "0004000000031B00"}
     ],
     "title": "Pilotwings Resort"
   },
